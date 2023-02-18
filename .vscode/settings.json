@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "i18n-ally.editor.preferEditor": true,
+  "i18n-ally.sourceLanguage": "en",
+  "i18n-ally.enabledFrameworks": ["react"],
+  "i18n-ally.localesPaths": ["locales"]
+}
